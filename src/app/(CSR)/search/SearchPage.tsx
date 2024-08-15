@@ -38,7 +38,7 @@ export default function SearchPage() {
     <div>
       <Alert>
         This page fetches data <strong>client-side</strong>. In order to not
-        leak API credentials, the request is sent to the a NextJS route handler
+        leak API credentials, the request is sent to the NextJS route handler
         that runs on the server. This route handler then fetches the data from
         the Unsplash API and returns it to the client.
       </Alert>
