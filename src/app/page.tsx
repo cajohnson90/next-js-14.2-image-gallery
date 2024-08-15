@@ -6,7 +6,7 @@ export default function Home() {
       <Alert>
         <p>
           This is a sample project to showcase and my ability to use the
-          <strong> Next JS - 14.2</strong> and it's feature including:
+          <strong> Next JS - 14.2</strong> and it&apos;s feature including:
         </p>
         <ul>
           <li>Using the new App Router</li>
